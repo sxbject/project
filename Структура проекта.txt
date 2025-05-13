@@ -1,0 +1,8 @@
+weather_bot/
+│
+├── app.py              # Основное приложение Flask
+├── config.py           # Конфигурация
+├── database.py         # Работа с базой данных
+├── weather_api.py      # Получение данных о погоде
+├── bot.py              # Телеграм-бот
+└── requirements.txt    # Зависимости
